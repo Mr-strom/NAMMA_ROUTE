@@ -41,3 +41,7 @@ coverage/
 # Build artifacts
 *.tgz
 *.zip
+
+# GTFS / transit data (large raw files, regenerate locally from BMTC GTFS feed)
+namma_route/backend/data/*.txt
+namma_route/backend/data/*.json

@@ -71,3 +71,16 @@ export default defineConfig([
   },
 ])
 ```
+
+
+## GTFS Transit Data
+
+The `namma_route/backend/data/` directory is excluded from this repo (stop_times.txt is 75MB).
+
+To regenerate, download the Bengaluru GTFS feed and run:
+
+```bash
+cd namma_route/backend
+pip install -r requirements.txt
+python build_data.py
+```
