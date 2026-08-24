@@ -1,0 +1,47 @@
+﻿[
+  {
+    "busNumber": "500C",
+    "stops": [
+      { "name": "Koramangala 4th Block", "lat": 12.9352, "lng": 77.6245 },
+      { "name": "BTM Layout", "lat": 12.9165, "lng": 77.6101 },
+      { "name": "Shivajinagar", "lat": 12.9863, "lng": 77.6060 },
+      { "name": "Majestic", "lat": 12.9767, "lng": 77.5713 }
+    ]
+  },
+  {
+    "busNumber": "201D",
+    "stops": [
+      { "name": "Whitefield", "lat": 12.9698, "lng": 77.7499 },
+      { "name": "Marathahalli", "lat": 12.9591, "lng": 77.7009 },
+      { "name": "Silk Board", "lat": 12.9171, "lng": 77.6225 },
+      { "name": "Majestic", "lat": 12.9767, "lng": 77.5713 }
+    ]
+  },
+  {
+    "busNumber": "335E",
+    "stops": [
+      { "name": "Electronic City", "lat": 12.8399, "lng": 77.6770 },
+      { "name": "BTM Layout", "lat": 12.9165, "lng": 77.6101 },
+      { "name": "Silk Board", "lat": 12.9171, "lng": 77.6225 },
+      { "name": "MG Road", "lat": 12.9757, "lng": 77.6095 }
+    ]
+  },
+  {
+    "busNumber": "KBS-10",
+    "stops": [
+      { "name": "Kempegowda Bus Stand", "lat": 12.9767, "lng": 77.5713 },
+      { "name": "Majestic", "lat": 12.9767, "lng": 77.5713 },
+      { "name": "Yelahanka", "lat": 13.1007, "lng": 77.5963 },
+      { "name": "Yelahanka New Town", "lat": 13.1075, "lng": 77.5968 }
+    ]
+  },
+  {
+    "busNumber": "201R",
+    "stops": [
+      { "name": "MG Road", "lat": 12.9757, "lng": 77.6095 },
+      { "name": "Indiranagar", "lat": 12.9784, "lng": 77.6408 },
+      { "name": "KR Puram", "lat": 12.9972, "lng": 77.6958 },
+      { "name": "Whitefield", "lat": 12.9698, "lng": 77.7499 }
+    ]
+  }
+]
